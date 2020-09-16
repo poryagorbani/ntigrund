@@ -1,0 +1,13 @@
+body {background-color: hotpink;}
+h2 {
+    font-size: 68px;
+}
+#ank{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 10px;
+}
